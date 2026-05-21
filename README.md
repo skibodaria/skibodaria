@@ -9,8 +9,9 @@ I'm a researcher transitioning into Data Analytics, combining background in soci
 * **Specialist, Social Sciences**, Voronezh State University, Russia 
 
 ### Subjects / Fields 📚
-* **Migration Studies:** (Quorum on Political Migration from Russia to Germany)[https://www.initiative-quorum.org/de/publikationen/dossier/details/neue-politische-immigration-aus-russland.html] and (ZOiS Report on Migration)[https://www.zois-berlin.de/publikationen/zois-report/russian-migrants-in-georgia-and-germany-activism-in-the-context-of-russias-war-against-ukraine]
-* **Civil Society:** 
+* **Migration Studies:** [Quorum on Political Migration from Russia to Germany](https://www.initiative-quorum.org/de/publikationen/dossier/details/neue-politische-immigration-aus-russland.html) and [ZOiS Report on Migration](https://www.zois-berlin.de/publikationen/zois-report/russian-migrants-in-georgia-and-germany-activism-in-the-context-of-russias-war-against-ukraine)
+* **Civil Society:** [Foreign Agents Law](https://www.opendemocracy.net/en/five-years-of-russia-s-foreign-agent-law/)
+* **Research Ethics:** 
 
 ### Featured Projects
 * **[Muesli Delivery Project](https://github.com/skibodaria/cayenne-clusters-m2-muesli-project):** Group project centered around exploratory data analysis and statistical analysis. Performed during Data Analytics Bootcamp at Spiced Academy.
