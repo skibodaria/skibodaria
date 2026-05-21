@@ -13,10 +13,10 @@ I'm a researcher transitioning into Data Analytics, combining background in soci
 * **Civil Society:** [Foreign Agents Law](https://www.opendemocracy.net/en/five-years-of-russia-s-foreign-agent-law/)
 * **Research Ethics:** 
 
-### Featured Projects
+### Featured Projects 🔨
 * **[Muesli Delivery Project](https://github.com/skibodaria/cayenne-clusters-m2-muesli-project):** Group project centered around exploratory data analysis and statistical analysis. Performed during Data Analytics Bootcamp at Spiced Academy.
 * **[Weather Effects on Airports Performances](https://github.com/skibodaria/dbt_project):** Another collaboration aiming to explore `dbt` capabilities and combine them with data export and exploration technique learnt in Python and SQL modules.
 
-### Connect with Me
+### Connect with Me 🙌
 * [LinkedIn](https://www.linkedin.com/in/daria-skibo-56b9036a/)
 * [Email](mailto:skibo.daria@gmail.com)
