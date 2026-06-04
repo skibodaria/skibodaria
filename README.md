@@ -8,7 +8,7 @@ I'm a researcher transitioning into Data Analytics, combining background in soci
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="padding-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/devicon/gradient/development/web/html/html5/html5-original.svg" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40" style="padding-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40" style="padding-right: 10px;"/>
 </p>
 
 #### Data Engineering & Modeling
