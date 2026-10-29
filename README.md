@@ -22,6 +22,7 @@ I'm a researcher transitioning into Data Analytics, combining background in soci
 ### Featured Projects 🔨
 * **[Muesli Delivery Project](https://github.com/skibodaria/muesli-project):** Group project centered around exploratory data analysis and statistical analysis. Performed during Data Analytics Bootcamp at Spiced Academy.
 * **[Weather Effects on Airports Performances](https://github.com/skibodaria/dbt_project):** Another collaboration aiming to explore `dbt` capabilities and combine them with data export and exploration technique learnt in Python and SQL modules.
+* **[Digital Literacy EU Capstone Project](https://github.com/skibodaria/digital_literacy_eu)**: Research project on **digital literacy** in European Union and the demographic factors that define the most vulnerable groups. The most important findings, visualizations, and hypothese testing are represented as a `streamlit`[app](https://digitalliteracy.streamlit.app/).
 
 ---
 
